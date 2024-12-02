@@ -1,1 +1,2 @@
 Hello! New Text! Very serious. A word to the text file.
+A new line to the text. Simple.
